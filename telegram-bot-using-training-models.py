@@ -73,7 +73,7 @@ def chastotniy(mes):
 ##keyboard1 = telebot.types.ReplyKeyboardMarkup()
 ##keyboard1.row("Байес", 'LSTM')
 
-bot = telebot.TeleBot("5218599661:AAH3qMRC_eQTACUwfYyOlfJwa6EKXcFWOgQ")
+bot = telebot.TeleBot("******************")
 
 
 @bot.message_handler(commands=['start', 'help'])
